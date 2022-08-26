@@ -1,2 +1,1 @@
-My first readme
-Following instructions
+Changing the contents of the README
